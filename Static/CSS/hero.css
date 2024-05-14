@@ -1,0 +1,17 @@
+.hero {
+    width: 100%vw;
+    min-width: 100%vh;
+    background-image: url(https://hips.hearstapps.com/hmg-prod/images/simon-migaj-yui5vfkhuzs-unsplash-1580476027.jpg?resize=2048:*);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.hero::after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(112, 112, 112, 1)
+}
