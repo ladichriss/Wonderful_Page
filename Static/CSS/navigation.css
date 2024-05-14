@@ -1,4 +1,9 @@
 .header{
-    display: flex;
-    flex-direction: row; /* valore di default */
-  }
+  display: flex;
+  flex-direction: row; /* valore di default */
+}
+
+.listItem {
+  color: white;
+}
+
