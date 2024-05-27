@@ -1,0 +1,12 @@
+
+.icon {
+    margin-top: 276px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-bottom: 30px;
+}
+
+.single_icon {
+    margin-right: 65px;
+}
