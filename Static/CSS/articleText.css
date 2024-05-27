@@ -6,3 +6,12 @@
     font-family: Hoefler Text;
     margin-top: 44.5px;
 }
+
+.articleText::after {
+    content: "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ";
+    margin-left: 767px;
+    margin-right: 767px;
+    border-bottom: solid;
+    border-width: 3;
+    border-color: white;
+}

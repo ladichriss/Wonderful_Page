@@ -1,0 +1,26 @@
+.button {
+    margin-left: 767px;
+    margin-right: 767px;
+    text-align: center;
+    margin-top: 58px;
+    border-top: solid;
+    border-width: 3px;
+    border-color: white;
+    text-decoration: none;
+    background-color: white;
+    padding-top: 15px;
+    padding-left: 125px;
+    padding-bottom: 15px;
+    padding-right: 125px;
+    color: #080C71;
+    font-size: 30px;
+    font-family: Merriweather;
+    
+}
+
+.button::before {
+    margin-top: 44.5px;
+    border: solid;
+    border-width: 3;
+    border-color: white;
+}
