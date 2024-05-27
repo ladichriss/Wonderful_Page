@@ -1,9 +1,24 @@
-.header{
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+.flex-container {
   display: flex;
-  flex-direction: row; /* valore di default */
+  flex-direction: row;
+  justify-content: flex-end;
 }
 
-.listItem {
+.flex-child {
+  margin-right: 55px;
+  margin-top: 87px;
   color: white;
+  font-family: Merriweather;
+  font-style: bold;
+  font-size: 20px;
+  align-items: center center;
 }
+
+.logo {
+  margin-right: 1300px;
+  margin-top: 20px;
+}
+
 

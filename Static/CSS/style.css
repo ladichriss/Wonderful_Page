@@ -1,18 +1,5 @@
+
 @import url(navigation.css);
 @import url(hero.css);
 
-.flex-child {
-    display: flex;
-    flex-direction: flex-end;
-    list-style: none;
-}
 
-.listItem {
-    margin-right: 24px;
-    margin-left: 24px;
-}
-
-.listItem a {
-    text-decoration: none;
-    color: black
-}
