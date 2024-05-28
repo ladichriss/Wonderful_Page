@@ -2,20 +2,19 @@
     margin-left: 767px;
     margin-right: 767px;
     text-align: center;
-    margin-top: 58px;
-    border-top: solid;
-    border-width: 3px;
-    border-color: white;
-    text-decoration: none;
-    background-color: white;
-    padding-top: 15px;
-    padding-left: 125px;
-    padding-bottom: 15px;
-    padding-right: 125px;
-    color: #080C71;
-    font-size: 30px;
-    font-family: Merriweather;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    background: white;
+    font-size: 25px;
+    padding: 5px 80px;
+    line-height: 30px;
     border-radius: 12px;
+    border-top: 2px solid white;
+    color: #080C71;
+    text-decoration: none;
+    display: block;  
+}
     
 }
 
