@@ -13,14 +13,7 @@
     border-top: 2px solid white;
     color: #080C71;
     text-decoration: none;
-    display: block;  
+    display: block; 
+    color: black;
 }
     
-}
-
-.button::before {
-    margin-top: 44.5px;
-    border: solid;
-    border-width: 3;
-    border-color: white;
-}
